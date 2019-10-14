@@ -1,16 +1,15 @@
-# articles
+# Socail Media Ap UI
 
 A new Flutter application.
 
-## Getting Started
+## Screenshot
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/56515652/66766819-55f02600-eeaf-11e9-9b3f-0e6c71be0222.PNG" 
+       width=310 hspace="20"/> 
+  <img src="https://user-images.githubusercontent.com/56515652/66766894-846e0100-eeaf-11e9-9dee-05d8b62368a0.PNG"
+       width=310 hspace="20"/>
+  <img src="https://user-images.githubusercontent.com/56515652/66766942-994a9480-eeaf-11e9-88a3-c05ff56ec995.PNG"
+       width=310 hspace="20"/>
+</p>
